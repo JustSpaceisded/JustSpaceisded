@@ -64,23 +64,23 @@
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
   <p align="Middle">
-  <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
+  <a href="https://git.io/streak-stats"><img alt="Progamer1251718's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=Progamer1251718&theme=github-dark-blue&hide_border=true"/></a>
 	
   ## 🏆 Awards
 <div align="center">
 	
- [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Progamer1251718&theme=darkhub&no-frame=true&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
       
 ## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Stats
      
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Progamer1251718's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Progamer1251718's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=Progamer1251718&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
 	
    ## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Progamer1251718&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📜 Programming Quote
 
