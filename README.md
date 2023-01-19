@@ -18,10 +18,10 @@
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Progamer1251718?label=Sponsors&logo=githubsponsors">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Progamer1251718?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-    <img src="https://komarev.com/ghpvc/?username=OMEGA6404" alt="OMEGA6404"/>       
-    <!--<a href="https://github.com/OMEGA6404?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6404" alt="Repos"/></a>--> 
-    <!--<img src="https://badges.pufler.dev/years/OMEGA6404" alt="Active_Years"/>-->  
-    <!--<a href="https://github.com/OMEGA6404/OMEGA6404" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/OMEGA6404" alt="commits"/>--> 
+    <img src="https://komarev.com/ghpvc/?username=Progamer1251718" alt="Progamer1251718"/>       
+    <!--<a href="https://github.com/Progamer1251718?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6404" alt="Repos"/></a>--> 
+    <!--<img src="https://badges.pufler.dev/years/Progamer1251718" alt="Active_Years"/>-->  
+    <!--<a href="https://github.com/Progamer1251718/Progamer1251718" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/OMEGA6404" alt="commits"/>--> 
     <a href="https://github.com/OMEGA6404/OMEGA6404/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6404/OMEGA6404" /></a>
     <a href="https://github.com/OMEGA6404?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6404?color=4C1&logo=github"></a>
     <a href="https://github.com/OMEGA6404/OMEGA6404" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6404/OMEGA6404?label=Profile%20update&style=fflat-square"></a>
@@ -52,7 +52,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/18216156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18216156" height="30" width="40" /></a>
-<a href="https://www.youtube.com/omega_gd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="OMEGA_GD" height="30" width="40" /></a>
+<a href="https://www.youtube.com/UCAPzqanpQOpJ7c3e26bj-dA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Bambi you bozo" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/tcPXZQnRA5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tcPXZQnRA5" height="30" width="40" /></a>
 </p>
 
