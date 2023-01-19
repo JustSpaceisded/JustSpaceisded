@@ -43,11 +43,11 @@
 
 - 🤝 I’m looking for help with **My Github Readme**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Anything I Guess**
 
-- 📫 How to reach me **Jackguiveroulie@gmail.com**
+- 📫 How to reach me **bambiyoubozoyt@gmail.com**
 
-- ⚡ Fun fact **I can solve a Rubix cube**
+- ⚡ Fun fact **I am kinda good at deco in [GD]**
 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
