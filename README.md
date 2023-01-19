@@ -22,24 +22,24 @@
     <!--<a href="https://github.com/Progamer1251718?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6404" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/Progamer1251718" alt="Active_Years"/>-->  
     <!--<a href="https://github.com/Progamer1251718/Progamer1251718" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/OMEGA6404" alt="commits"/>--> 
-    <a href="https://github.com/OMEGA6404/OMEGA6404/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6404/OMEGA6404" /></a>
-    <a href="https://github.com/OMEGA6404?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6404?color=4C1&logo=github"></a>
-    <a href="https://github.com/OMEGA6404/OMEGA6404" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6404/OMEGA6404?label=Profile%20update&style=fflat-square"></a>
-    <!--<a href="https://github.com/OMEGA6404" target="_blank"><img alt="OMEGA6404" src="https://badges.pufler.dev/visits/OMEGA6404/OMEGA6404?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-    <!--<img src="https://badges.pufler.dev/gists/OMEGA6404" alt="OMEGA6404"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="OMEGA6404"/>-->
+    <a href="https://github.com/Progamer1251718/Progamer1251718F/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Progamer1251718/Progamer1251718" /></a>
+    <a href="https://github.com/Progamer1251718?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Progamer1251718?color=4C1&logo=github"></a>
+    <a href="https://github.com/Progamer1251718/Progamer1251718" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Progamer1251718/Progamer1251718?label=Profile%20update&style=fflat-square"></a>
+    <!--<a href="https://github.com/Progamer1251718" target="_blank"><img alt="Progamer125178" src="https://badges.pufler.dev/visits/OMEGA6404/OMEGA6404?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<img src="https://badges.pufler.dev/gists/Progamer1251718" alt="OMEGA6404"/>-->
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="Progamer1251718"/>-->
 </p> 
 
   <h3 align="center">Best 7th grader in Robious Middle School</h3>
 	
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+OMEGA!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+Bambi!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
 	  
-- 🔭 I’m currently working on [My Readme](https://github.com/OMEGA6404/OMEGA6404)
+- 🔭 I’m currently working on [My Readme](https://github.com/Progamer1251718/Progamer1251718)
 
 - 🌱 I’m currently learning **DC.js, C and PHP**
 
-- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@OMEGA_GD)
+- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@Bambi you bozo)
 
 - 🤝 I’m looking for help with **My Github Readme**
 
