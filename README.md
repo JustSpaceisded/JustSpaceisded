@@ -1,12 +1,11 @@
 ![](https://hit.yhype.me/github/profile?user_id=98067930)
 
  <h1 align="center">
-  Hi, I'm Bambi
+  Hi, I'm OMEGA
  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
  <h4 align="center"> Pronouns: He/Him </h4>
-		
 	
 	<<dt>
             <p align="center">
