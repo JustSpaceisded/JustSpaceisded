@@ -9,7 +9,7 @@
 	
 <dt>
             <p align="center">
-        <a href="https://www.youtube.com/channel/UCAPzqanpQOpJ7c3e26bj-dA?sub_confirmation=1">
+        <a href="https://www.youtube.com/channel/UCAPzqanpQOpJ7c3e26bj-dA?sub_confirmation=2">
   <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/channel/UCAPzqanpQOpJ7c3e26bj-dA)?style=social"/></a> 
        </dt>
  
