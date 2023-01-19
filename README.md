@@ -9,11 +9,11 @@
 	
 <dt>
             <p align="center">
-        <a href="https://www.youtube.com/@OMEGA_GD?sub_confirmation=1">
+        <a href="https://www.youtube.com/@Bambi you bozo?sub_confirmation=1">
   <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UC7gbySU8XeK1JY8zZOvRJRQ?style=social"/></a> 
         </dt>
  
- <p align="center"> <img src="https://img.shields.io/badge/Discord-OMEGA6400__%231510-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Discord-Bambi you bozo__%232707-red/?logo=discord&color=7289DA" alt="Bambi you bozo" /> </p>
 	
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/OMEGA6404?label=Sponsors&logo=githubsponsors">
