@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
  <h4 align="center"> Pronouns: He/Him </h4>
-	
+		
 	<dt>
             <p align="center">
         <a href="https://www.youtube.com/channel/UCAPzqanpQOpJ7c3e26bj-dA?sub_confirmation=2">
