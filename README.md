@@ -10,8 +10,8 @@
 <dt>
             <p align="center">
         <a href="https://www.youtube.com/@Bambi you bozo?sub_confirmation=1">
-  <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/channel/UCAPzqanpQOpJ7c3e26bj-dA?style=social"/></a> 
-        </dt>
+  <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/channel/UCAPzqanpQOpJ7c3e26bj-dA ?style=social"/></a> 
+       </dt>
  
  <p align="center"> <img src="https://img.shields.io/badge/Discord-Bambi you bozo__%232707-red/?logo=discord&color=7289DA" alt="Bambi you bozo" /> </p>
 	
