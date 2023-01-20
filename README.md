@@ -52,7 +52,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/21045795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21045795" height="30" width="40" /></a>
-<a href="https://www.youtube.com/Bambiyoubozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Bambiyoubozo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Bambiyoubozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Bambiyoubozo" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/tcPXZQnRA5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tcPXZQnRA5" height="30" width="40" /></a>
 </p>
 
