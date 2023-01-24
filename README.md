@@ -47,7 +47,7 @@
 
 - 📫 How to reach me **bambiyoubozoyt@gmail.com**
 
-- ⚡ Fun fact **I know how to deco kinda in [GD]**
+- ⚡ Fun fact **I know how to Solve a Rubix cube 2X2 but not a 3X3**
 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
