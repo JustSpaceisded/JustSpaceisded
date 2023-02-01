@@ -7,6 +7,8 @@
  
  <h4 align="center"> Pronouns: He/Him </h4>
 	
+[![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5?theme=dark)](https://discord.gg/tcPXZQnRA5)
+	
 <dt>
             <p align="center">
         <a href="https://www.youtube.com/@Bambiyoubozo?sub_confirmation=1">
@@ -103,7 +105,7 @@
 	
 [![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5?theme=dark)](https://discord.gg/tcPXZQnRA5)
   <!--
-**OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Progamer1251718/Progamer1251718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
