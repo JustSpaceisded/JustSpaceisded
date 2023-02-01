@@ -49,7 +49,9 @@
 - 📫 How to reach me **bambiyoubozoyt@gmail.com**
 
 - ⚡ Fun fact **I know how to Solve a Rubix cube 2X2 but not a 3X3**
-	
+
+-⚡ Our Discord Server 
+[![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5?theme=dark)](https://discord.gg/tcPXZQnRA5) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/21045795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21045795" height="30" width="40" /></a>
