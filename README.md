@@ -101,7 +101,7 @@
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://github.com/OddPvP/unblockedgames/wiki/Deploying-to-Netlify)
 [![Deploy On Replit](https://shields.io/badge/Deploy%20on-replit-important?logo=replit&style=for-the-badge)](https://github.com/OddPvP/unblockedgames/wiki/Deploying-to-replit)
 	
-	[![Join us on Discord](https://invidget.switchblade.xyz/xksWyP9aJv?theme=dark)](https://discord.gg/xksWyP9aJv)
+[![Join us on Discord](https://invidget.switchblade.xyz/xksWyP9aJv?theme=dark)](https://discord.gg/xksWyP9aJv)
   <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -114,3 +114,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+	[![Join us on Discord](https://invidget.switchblade.xyz/xksWyP9aJv?theme=dark)](https://discord.gg/xksWyP9aJv)
