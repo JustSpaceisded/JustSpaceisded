@@ -8,7 +8,7 @@
  <h4 align="center"> Pronouns: He/Him </h4>
 
 <p align="center"> 	
-[![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5?theme=dark)](https://discord.gg/tcPXZQnRA5)
+ [![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5?theme=dark)](https://discord.gg/tcPXZQnRA5)
 	
 <dt>
             <p align="center">
