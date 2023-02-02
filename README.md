@@ -49,7 +49,7 @@
 
 - ⚡ Fun fact **I know how to Solve a Rubix cube 2X2 but not a 3X3**
 
-- ⚡ Our Discord Server 
+- 🖥️ Our Discord Server 
 
 [![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5?theme=dark)](https://discord.gg/tcPXZQnRA5) 
 <h3 align="left">Connect with me:</h3>
