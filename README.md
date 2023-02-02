@@ -1,7 +1,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=98067930)
 
-<h1 align="center">
-Hi, I'm Bamb/Bambi
+ <h1 align="center">
+  Hi, I'm Bamb/Bambi
  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
@@ -15,7 +15,6 @@ Hi, I'm Bamb/Bambi
         </dt>
  
  <p align="center"> <img src="https://img.shields.io/badge/Discord-Bambi you bozo__%232707-red/?logo=discord&color=7289DA" alt="Progamer1251718" /> </p>
-
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Progamer1251718?label=Sponsors&logo=githubsponsors">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Progamer1251718?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
@@ -48,17 +47,17 @@ Hi, I'm Bamb/Bambi
 
 - 📫 How to reach me **bambiyoubozoyt@gmail.com**
 
-- ⚡ Fun fact **I know how to deco kinda in [GD]**
-	  
-- 🖥️ Our Discord Server 
+- ⚡ Fun fact **I know how to Solve a Rubix cube 2X2 but not a 3X3**
 
-[![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5)](https://discord.gg/tcPXZQnRA5) 
-	
+- ⚡ Our Discord Server 
+
+[![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5?theme=dark)](https://discord.gg/tcPXZQnRA5) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/21045795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21045795" height="30" width="40" /></a>
-<a href="https://www.youtube.com/Bambiyoubozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Bambiyoubozo" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/tcPXZQnRA5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tcPXZQnRA5" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Bambiyoubozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Bambiyoubozo" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/tcPXZQnRA5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p
@@ -79,10 +78,7 @@ Hi, I'm Bamb/Bambi
 ## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Stats
      
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Progamer1251718's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
-
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Progamer1251718's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Progamer1251718&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
-main
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Progamer1251718's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=Progamer1251718&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
 	
@@ -103,8 +99,9 @@ main
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->	
 	
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-	</p>
 
+</p>
+	
 - Forked From [Here](https://github.com/OMEGA6404/OMEGA6404)
 <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
