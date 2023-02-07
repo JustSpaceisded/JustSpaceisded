@@ -45,7 +45,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **Jackguiveroulie@gmail.com**
+- 📫 How to reach me **bambiyoubozoyt@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubix cube**
 	  
