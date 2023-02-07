@@ -23,40 +23,41 @@
     <!--<img src="https://badges.pufler.dev/years/Progamer1251718" alt="Active_Years"/>-->  
     <!--<a href="https://github.com/Progamer1251718/Progamer1251718" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Progamer1251718" alt="commits"/>--> 
     <a href="https://github.com/Progamer1251718/Progamer1251718/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Progamer1251718/Progamer1251718" /></a>
-    <a href="https://github.com/Progamer1251718?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Progamer1251718?color=4C1&logo=github"></a>
-    <a href="https://github.com/Progamer1251718/Progamer1251718" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Progamer1251718/Progamer1251718?label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/Progamer1251718?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6404?color=4C1&logo=github"></a>
+    <a href="https://github.com/Progamer1251718/Progamer1251718" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6404/OMEGA6404?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/Progamer1251718" target="_blank"><img alt="Progamer1251718" src="https://badges.pufler.dev/visits/Progamer1251718/Progamer1251718?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/Progamer1251718" alt="Progamer1251718"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="Progamer1251718"/>-->
 </p> 
 
-  <h3 align="center">Best 7th grader in Bird - and least anoying kid in bird - Middle School</h3>
+  <h3 align="center">Best 7th grader in Robious Middle School</h3>
 	
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+Bambi!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+one+year+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+Bambi!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
 	  
 - 🔭 I’m currently working on [My Readme](https://github.com/Progamer1251718/Progamer1251718)
 
 - 🌱 I’m currently learning **DC.js, C and PHP**
 
-- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@Bambiyoubozo)
+- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@bambiyoubozo)
 
 - 🤝 I’m looking for help with **My Github Readme**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **bambiyoubozoyt@gmail.com**
+- 📫 How to reach me **Jackguiveroulie@gmail.com**
 
-- ⚡ Fun fact **I know how to Solve a Rubix cube 2X2 but not a 3X3**
-
+- ⚡ Fun fact **I can solve a Rubix cube**
+	  
 - 🖥️ Our Discord Server 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5?theme=dark)](https://discord.gg/tcPXZQnRA5) 
+[![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5)](https://discord.gg/tcPXZQnRA5) 
+	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/21045795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21045795" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Bambiyoubozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Bambiyoubozo" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/tcPXZQnRA5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18216156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18216156" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bambiyoubozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bambiyoubozo" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/tcPXZQnRA5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tcPXZQnRA5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -100,8 +101,13 @@
 	
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 	</p>
- <!--
-**Progamer1251718/Progamer1251718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	
+## <img src="assets/img/1501478569_demon animation.gif" display="block"  width="900" height="500">
+
+- Forked From [Here](https://github.com/OMEGA6404/OMEGA6404)
+	
+  <!--
+**OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -112,4 +118,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
