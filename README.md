@@ -101,8 +101,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </p>
-	
-- Forked From [Here](https://github.com/OMEGA6404/OMEGA6404)
 
  <!--
 **Progamer1251718/Progamer1251718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
