@@ -42,11 +42,11 @@
 
 - 📫 How to reach me **bambiyoubozoyt@gmail.com**
 
-- ⚡ Fun fact **I can solve a Rubix cube**
+- ⚡ Fun fact **I can solve a Rubix cube 2x2 **
 	  
 - 🖥️ Our Discord Server 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5)](https://discord.gg/tcPXZQnRA5) 
+[![Join us on Discord](https://invidget.switchblade.xyz/67GA8SkejR)](https://discord.gg/67GA8SkejR) 
 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
