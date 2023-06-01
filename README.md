@@ -8,13 +8,13 @@
  <h4 align="center"> Pronouns: He/Him </h4>
 
  
- <p align="center"> <img src="https://img.shields.io/badge/Discord-JustSpace__%230001-red/?logo=discord&color=7289DA" alt="Progamer1251718" /> </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Discord-JustSpace__%230001-red/?logo=discord&color=7289DA" alt="JustSpaceisded" /> </p>
 <p align="center">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Progamer1251718?label=Sponsors&logo=githubsponsors">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Progamer1251718?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-    <img src="https://komarev.com/ghpvc/?username=Progamer1251718" alt="Progamer1251718"/>       
-    <!--<a href="https://github.com/Progamer1251718?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Progamer1251718" alt="Repos"/></a>--> 
-    <!--<img src="https://badges.pufler.dev/years/Progamer1251718" alt="Active_Years"/>-->  
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/JustSpaceisded?label=Sponsors&logo=githubsponsors">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JustSpaceisded?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+    <img src="https://komarev.com/ghpvc/?username=JustSpaceisded" alt="JustSpaceisded"/>       
+    <!--<a href="https://github.com/JustSpaceisded?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/JustSpaceisded" alt="Repos"/></a>--> 
+    <!--<img src="https://badges.pufler.dev/years/JustSpaceisded" alt="Active_Years"/>-->  
     <!--<a href="https://github.com/Progamer1251718/Progamer1251718" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Progamer1251718" alt="commits"/>--> 
     <a href="https://github.com/Progamer1251718/Progamer1251718/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Progamer1251718/Progamer1251718" /></a>
     <a href="https://github.com/Progamer1251718?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6404?color=4C1&logo=github"></a>
