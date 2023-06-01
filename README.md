@@ -7,12 +7,6 @@
  
  <h4 align="center"> Pronouns: He/Him </h4>
 
-	
-<dt>
-            <p align="center">
-        <a href="https://www.youtube.com/@Bambiyoubozo?sub_confirmation=1">
-  <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UCAPzqanpQOpJ7c3e26bj-dA?style=social"/></a> 
-        </dt>
  
  <p align="center"> <img src="https://img.shields.io/badge/Discord-Bambi you bozo__%232707-red/?logo=discord&color=7289DA" alt="Progamer1251718" /> </p>
 <p align="center">
