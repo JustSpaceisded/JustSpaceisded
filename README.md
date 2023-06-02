@@ -78,28 +78,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Progamer1251718's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=Progamer1251718&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
 	
-   ## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Progamer1251718&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📜 Programming Quote
-
-<div align="center">	
-	
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" hight="200px"/></a>
-  <br/>
-	</div>
-
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->	
-	
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-	</p>
 	
 ## <img src="assets/img/1501478569_demon animation.gif" display="block"  width="900" height="500">
-
-- Forked From [Here](https://github.com/OMEGA6404/OMEGA6404)
 	
   <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
