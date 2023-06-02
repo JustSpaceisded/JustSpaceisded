@@ -62,8 +62,6 @@
 
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
-  <p align="Middle">
-  <a href="https://git.io/streak-stats"><img alt="Progamer1251718's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=Progamer1251718&theme=github-dark-blue&hide_border=true"/></a>
 	
 	
 ## <img src="assets/img/1501478569_demon animation.gif" display="block"  width="900" height="500">
