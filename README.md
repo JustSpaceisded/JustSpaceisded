@@ -10,7 +10,7 @@
 
  
  <p align="center"> <img src="https://img.shields.io/badge/Discord-JustSpace__%230001-red/?logo=discord&color=7289DA" alt="JustSpaceisded" /> </p>
-<p align="center">f
+<p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/JustSpaceisded?label=Sponsors&logo=githubsponsors">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JustSpaceisded?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
     <img src="https://komarev.com/ghpvc/?username=JustSpaceisded" alt="JustSpaceisded"/>       
