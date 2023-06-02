@@ -38,13 +38,13 @@
 
 - 🤝 I’m looking for help with **My Github Readme**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Basicly Anything**
 
 - 📫 How to reach me **bambiyoubozoyt@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubix cube 2x2 **
 	  
-- 🖥️ Our Discord Server 
+- 🖥️ My Discord Server 
 
 [![Join us on Discord](https://invidget.switchblade.xyz/67GA8SkejR)](https://discord.gg/67GA8SkejR) 
 	
