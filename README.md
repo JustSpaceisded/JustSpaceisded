@@ -9,7 +9,7 @@
  <h4 align="center"> Pronouns: He/Him </h4>
 
  
- <p align="center"> <img src="https://img.shields.io/badge/Discord-justspace__%23-red/?logo=discord&color=7289DA" alt="JustSpaceisded" /> </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Discord-justspace-red/?logo=discord&color=7289DA" alt="JustSpaceisded" /> </p>
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/JustSpaceisded?label=Sponsors&logo=githubsponsors">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JustSpaceisded?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
