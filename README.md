@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **DC.js, C and PHP**
 
-- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@bamburabozo)
+- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@spacesaiduk)
 
 - 🤝 I’m looking for help with **My Github Readme**
 
