@@ -3,6 +3,9 @@
  <h1 align="center">
   why are you here? ...👋 ...
 	im Spade/Space
+
+	 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustSpaceisded&show_icons=true&theme=radical)
  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
