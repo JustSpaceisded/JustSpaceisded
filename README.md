@@ -32,7 +32,7 @@
 	  
 - 🔭 I’m currently working on [Random Shit](https://github.com/JustSpaceisded/JustSpaceisded)
 
-- 🌱 I’m currently learning **DC.js, C and PHP**
+- 🌱 I’m currently learning **DC.js, C**
 
 - 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/channel/UCxetLUJuVZFBb03IHNZRa4w)
 
