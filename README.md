@@ -42,7 +42,7 @@
 
 - 📫 How to reach me **bambiyoubozoyt@gmail.com**
 
-- ⚡ Fun fact **I can solve a Rubix cube 2x2 **
+- ⚡ Fun fact **I Have Spent More Than 400 Dollars On Mice (current:viper 8kHz **
 	  
 - 🖥️ My Discord Server 
 
