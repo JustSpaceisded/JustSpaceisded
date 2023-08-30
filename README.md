@@ -42,7 +42,7 @@
 
 - 📫 How to reach me **bambiyoubozoyt@gmail.com**
 
-- ⚡ Fun fact **I Have Spent More Than 400 Dollars On Mice (current: viper 8kHz) **
+- ⚡ Fun fact **I Have Spent More Than 400 Dollars On Mice (current: viper 8kHz)) **
 	  
 - 🖥️ My Discord Server 
 
