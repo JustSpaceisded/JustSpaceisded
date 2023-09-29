@@ -34,13 +34,13 @@
 
 - 🌱 I’m currently learning **Phython 2.0, Lua**
 
-- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/channel/UCxetLUJuVZFBb03IHNZRa4w)
+- 👯 I might want to collaborate on [My Youtube](https://www.youtube.com/channel/UCxetLUJuVZFBb03IHNZRa4w)
 
-- 🤝 I’m looking for help with **Getting a proper life**
+- 🤝 I’m looking for help with **quiting gd and getting a life**
 
 - 💬 Ask me about **Basicly Anything**
 
-- 📫 How to reach me **Spadeeyt@gmail.com**
+- 📫 How to reach me ig **Spadeeyt@gmail.com**
 
 - ⚡ Fun fact **I Have Spent More Than 400+ Dollars On Mice current: viper 8kHz**
 	  
