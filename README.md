@@ -14,9 +14,7 @@
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/JustSpaceisded?label=Sponsors&logo=githubsponsors">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JustSpaceisded?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
     <img src="https://komarev.com/ghpvc/?username=JustSpaceisded" alt="JustSpaceisded"/>       
-    <!--<a href="https://github.com/JustSpaceisded?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/JustSpaceisded" alt="Repos"/></a>--> 
-    <!--<img src="https://badges.pufler.dev/years/JustSpaceisded" alt="Active_Years"/>-->  
-    <!--<a href="https://github.com/JustSpaceisded/JustSpaceisded" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/JustSpaceisded" alt="commits"/>--> 
+src="https://badges.pufler.dev/commits/monthly/JustSpaceisded" alt="commits"/>--> 
     <a href="https://github.com/JustSpaceisded/JustSpaceisded/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/JustSpaceisded/JustSpaceisded" /></a>
     <a href="https://github.com/JustSpaceisded?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/JustSpaceisded?color=4C1&logo=github"></a>
     <a href="https://github.com/JustSpaceisded/JustSpaceisded" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/JustSpaceisded/JustSpaceisded?label=Profile%20update&style=fflat-square"></a>
