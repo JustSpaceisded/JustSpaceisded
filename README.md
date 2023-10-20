@@ -33,11 +33,11 @@
 
 - 🤝 I need help with **im a guy**
 
-- 💬 Ask me about **Basicly Anything**
+- 💬 Ask me about **idk anything you want ig**
 
-- 📫 How to reach me ig **Spadeeyt@gmail.com**
+- 📫 How to reach me ig **Spadeeyt@gmail.com/bambiyoubozoyt@gmail.com/bambiyoubozoytss@gmail.com**
 
-- ⚡ Fun fact **I Have Spent More Than 400+ Dollars On Mice current: viper 8kHz**
+- ⚡ Fun fact **I Have Spent More Than 600+ Dollars On Mice current: viper 8kHz im getting a g502X soon**
 	  
 - 🖥️ My Discord Server 
 
