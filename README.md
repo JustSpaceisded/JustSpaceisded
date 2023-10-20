@@ -27,13 +27,13 @@
 	  
 - 🔭 I’m currently working on [addons for my readme](https://github.com/JustSpaceisded/JustSpaceisded)
 
-- 🌱 I’m currently learning **nothing rn**
+- 🌱 I’m currently learning **more code lmfao**
 
 - 👯 I might want to collaborate on [My Youtube](https://www.youtube.com/channel/UCxetLUJuVZFBb03IHNZRa4w)
 
 - 🤝 I need help with **im a guy**
 
-- 💬 Ask me about **idk anything you want ig**
+- 💬 Ask me about **idk anything you want ig Guh'**
 
 - 📫 How to reach me ig **Spadeeyt@gmail.com/bambiyoubozoyt@gmail.com/bambiyoubozoytss@gmail.com**
 
