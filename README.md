@@ -31,7 +31,7 @@
 
 - 👯 I might want to collaborate on [My Youtube](https://www.youtube.com/channel/UCxetLUJuVZFBb03IHNZRa4w)
 
-- 🤝 I need help with **quiting gd and getting a life**
+- 🤝 I need help with **im a guy**
 
 - 💬 Ask me about **Basicly Anything**
 
