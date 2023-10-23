@@ -27,17 +27,17 @@
 	  
 - 🔭 I’m currently working on [addons for my readme](https://github.com/JustSpaceisded/JustSpaceisded)
 
-- 🌱 I’m currently learning **more code lmfao**
+- 🌱 I’m currently learning **Lua**
 
 - 👯 I might want to collaborate on [My Youtube](https://www.youtube.com/channel/UCxetLUJuVZFBb03IHNZRa4w)
 
-- 🤝 I need help with **im a guy**
+- 🤝 I need help with **nothing rn**
 
 - 💬 Ask me about **idk anything you want ig Guh'**
 
 - 📫 How to reach me ig **Spadeeyt@gmail.com/bambiyoubozoyt@gmail.com/bambiyoubozoytss@gmail.com**
 
-- ⚡ Fun fact **I Have Spent More Than 600+ Dollars On Mice current: viper 8kHz im getting a g502X soon**
+- ⚡ Fun fact **I Have Spent More Than 600+ Dollars On Mice current: viper 8kHz im getting a g502X wensday 10/25**
 	  
 - 🖥️ My Discord Server 
 
