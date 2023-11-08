@@ -37,7 +37,7 @@
 
 - 📫 How to reach me ig **Spadeeyt@gmail.com/bambiyoubozoyt@gmail.com/bambiyoubozoytss@gmail.com**
 
-- ⚡ Fun fact **I Have Spent More Than 600+ Dollars On Mice current: viper 8kHz im getting a g502X wensday 10/25**
+- ⚡ Fun fact **I Have Spent More Than 600+ Dollars On Mice current: g502X wired**
 	  
 - 🖥️ My Discord Server 
 
